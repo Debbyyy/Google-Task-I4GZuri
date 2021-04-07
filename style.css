@@ -1,0 +1,42 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: auto;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+}
+nav img {
+    height: 20px;
+}
+main {
+    width: 50%;
+    margin: auto;
+    padding-top: 150px;
+    text-align: center;
+}
+.container {
+    position: relative;
+}
+input {
+    width: 80%;
+    padding: 1em;
+    border-radius: 30px;
+    border: 1px solid #888;
+}
+.mic {
+    position: absolute;
+    right: 80px;
+    top: 13px;
+}
+.btn-container {
+    margin-top: 1em;
+}
+.btn-container button {
+    color: #888;
+    padding: 1em;
+    border: none;
+    font-weight: 700;
+}
