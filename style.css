@@ -36,11 +36,11 @@ nav img {
     }
 }
 .icons {
-    display none
+    display: none;
 }
 @media screen and (max-width:600px) {
     .icons {
-        height: 20px;
+        display: flex;
     }
 }
 main {
@@ -67,6 +67,9 @@ input {
 @media screen and (max-width:600px) {
     input {
         width: 100%;
+        margin-left: -40px;
+        padding-right: 50px;
+        padding-left: 50px;
     }
 }
 .mic {
@@ -76,7 +79,7 @@ input {
 }
 @media screen and (max-width:600px) {
     .mic {
-        right: 5px;
+        right: -50px;
     }
 }
 .btn-container {
@@ -87,4 +90,9 @@ input {
     padding: 1em;
     border: none;
     font-weight: 700;
+}
+@media screen and (max-width:600px) {
+    .btn-container {
+        display: none;
+    }
 }
