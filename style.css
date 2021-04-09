@@ -4,6 +4,7 @@
         flex-direction: column;
         padding: 0;
         margin: 0;
+        width: 100%;
         overflow-x: hidden;
     }
 }
@@ -63,6 +64,7 @@ input {
     padding: 1em;
     border-radius: 30px;
     border: 1px solid #888;
+    outline: none;
 }
 @media screen and (max-width:600px) {
     input {
@@ -90,6 +92,7 @@ input {
     padding: 1em;
     border: none;
     font-weight: 700;
+    outline: none;
 }
 @media screen and (max-width:600px) {
     .btn-container {

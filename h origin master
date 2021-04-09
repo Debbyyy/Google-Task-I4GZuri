@@ -1,0 +1,36 @@
+[33mcommit e61f52b6fafef353ef4e1620abe7ce4b09c35f68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bb34ab9 42f21b7
+Author: Dhebby <eldhebbyjay609@gmail.com>
+Date:   Wed Apr 7 04:51:02 2021 -0700
+
+    Merge branch 'master' of https://github.com/Debbyyy/Google-Task-I4GZuri
+
+[33mcommit bb34ab9ed935ce7e88e6f37a2f2a67a04df035ae[m
+Author: Dhebby <eldhebbyjay609@gmail.com>
+Date:   Wed Apr 7 04:44:49 2021 -0700
+
+    i tried to make the site responsive on devices with a max width of 600px
+
+[33mcommit 6140396f6156495ea0328c67a05993895f843103[m
+Author: Dhebby <eldhebbyjay609@gmail.com>
+Date:   Wed Apr 7 04:29:10 2021 -0700
+
+    i am adding styles to the mobile page
+
+[33mcommit 3fc529932cf2b2b40122876e66852795a89513ad[m
+Author: Dhebby <eldhebbyjay609@gmail.com>
+Date:   Wed Apr 7 04:21:46 2021 -0700
+
+    this is me trying to make the site responsive on mobiles at least
+
+[33mcommit 42f21b7babee295c40853177424d4c88ce13c703[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Debbyyy <68066819+Debbyyy@users.noreply.github.com>
+Date:   Wed Apr 7 03:34:15 2021 -0700
+
+    added a readme like i did on the main
+
+[33mcommit 5b7d3258ffd841d4b69f9bf02ef384aad81c15c3[m
+Author: Dhebby <eldhebbyjay609@gmail.com>
+Date:   Wed Apr 7 03:17:18 2021 -0700
+
+    i just initialized this folder and equally added my files to be tracked by git
